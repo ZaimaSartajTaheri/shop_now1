@@ -1,0 +1,35 @@
+# Query: datatables
+# ContextLines: 1
+
+93 results - 11 files
+
+admin\category.php:
+  160      
+admin\edit-category.php:
+  116      
+
+admin\edit-products.php:
+  283      
+
+admin\edit-subcategory.php:
+  136      
+
+admin\insert-product.php:
+  247      
+
+admin\manage-products.php:
+  112      
+
+admin\manage-users.php:
+  110     
+
+admin\subcategory.php:
+  172     
+
+admin\update-image1.php:
+  164     
+admin\user-logs.php:
+  101     
+
+admin\css\theme.css:
+  1339 
